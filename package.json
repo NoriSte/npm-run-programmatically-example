@@ -1,0 +1,12 @@
+{
+  "name": "npm-run-programmatically-example",
+  "scripts": {
+    "run-example": "node index.js",
+    "pretest": "echo \"Pre test\"",
+    "test": "echo \"Error: no test specified\"",
+    "posttest": "echo \"Post test\""
+  },
+  "devDependencies": {
+    "npm": "^6.12.0"
+  }
+}
